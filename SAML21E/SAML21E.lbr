@@ -243,7 +243,7 @@
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="SAML21E" prefix="U">
+<deviceset name="SAML21E" prefix="U" uservalue="yes">
 <gates>
 <gate name="G$1" symbol="SAML21E" x="0" y="0"/>
 </gates>
