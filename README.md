@@ -1,1 +1,1 @@
-# SAML21E
+# Eagle libraries
